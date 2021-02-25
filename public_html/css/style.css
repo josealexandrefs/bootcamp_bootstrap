@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 de fev de 2021, 00:41:20
+    Author     : j_ale
+*/
+
+body{
+    font: 20px, Arial, sans-serif
+}
+
+.navbar {
+    background-color: #298A08
+}
+
+.quem-somos{
+    background-color: #8181F7;
+    color: white;
+}
+
+.margin{
+    /*padding-top: 50px;*/
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #298A08
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}   
